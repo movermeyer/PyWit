@@ -1,9 +1,9 @@
 # PyWit (Unofficial)
 
 [![Build Status](https://travis-ci.org/lextoumbourou/PyWit.png?branch=master)](https://travis-ci.org/lextoumbourou/PyWit)
-[![License](https://pypip.in/license/PyWit/badge.png)](https://pypi.python.org/pypi/PyWit)
-[![Latest Version](https://pypip.in/version/PyWit/badge.png)](https://pypi.python.org/pypi/PyWit)
-[![Downloads](https://pypip.in/download/PyWit/badge.png)](https://pypi.python.org/pypi/PyWit)
+[![License](https://img.shields.io/pypi/l/PyWit.svg)](https://pypi.python.org/pypi/PyWit)
+[![Latest Version](https://img.shields.io/pypi/v/PyWit.svg)](https://pypi.python.org/pypi/PyWit)
+[![Downloads](https://img.shields.io/pypi/dm/PyWit.svg)](https://pypi.python.org/pypi/PyWit)
 
 *Note: Wit.ai now provides an official Python SDK also called [pywit](https://github.com/wit-ai/pywit). It is the recommended way to develop Wit applications in Python.*
 
